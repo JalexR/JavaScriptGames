@@ -1,0 +1,19 @@
+.grid {
+	width: 618px;
+	height: 618px;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.square {
+    width: 200px;
+    height: 200px;
+    border-style:dashed;
+    border-color:cornflowerblue;
+    border-width: 3px;
+}
+
+.mole {
+	background-image: url("mole.jpg");
+	background-size: cover;
+}
